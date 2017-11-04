@@ -23,6 +23,6 @@ npm run flow
 
 ## Resources
 
-- [Airbnb React Style Guide](https://github.com/mboperator/react-native-crossplatform-example/blob/master/src/mobile/views/Home/style.js)
+- [Airbnb React Style Guide](https://github.com/airbnb/javascript)
 - [Spencer Carli's File Structure](https://medium.com/the-react-native-log/organizing-a-react-native-project-9514dfadaa0)
 
