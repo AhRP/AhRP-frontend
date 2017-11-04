@@ -20,3 +20,9 @@ npm run flow
 
 - [react-navigation](https://github.com/react-community/react-navigation)
 - [react-redux](https://github.com/reactjs/react-redux)
+
+## Resources
+
+- [Airbnb React Style Guide](https://github.com/mboperator/react-native-crossplatform-example/blob/master/src/mobile/views/Home/style.js)
+- [Spencer Carli's File Structure](https://medium.com/the-react-native-log/organizing-a-react-native-project-9514dfadaa0)
+
