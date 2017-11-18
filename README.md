@@ -26,3 +26,8 @@ npm run flow
 - [Airbnb React Style Guide](https://github.com/airbnb/javascript)
 - [Spencer Carli's File Structure](https://medium.com/the-react-native-log/organizing-a-react-native-project-9514dfadaa0)
 
+## Notes
+
+```bash
+echo "sdk.dir = /Users/$(whoami)/Library/Android/sdk" > android/local.properties
+```
