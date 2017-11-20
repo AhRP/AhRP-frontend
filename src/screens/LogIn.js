@@ -5,23 +5,23 @@ import { StyleSheet, View, Text, Button } from 'react-native';
 
 export default class Login extends Component {
   constructor(props) {
-		super(props);
-		//this.state = {};
-	}
+    super(props);
+    //this.state = {};
+  }
 
-	render() {
-		const { navigation } = this.props;
-		
-		return (
-		  <View style={styles.container}>
-				<Text>LOGIN SCREEN</Text>
-				<Button
-					onPress={() => navigation.navigate('Home')}
-					title="Login"
-				/>
-		  </View>
-		);
-	}
+  render() {
+    const { navigation } = this.props;
+        
+    return (
+      <View style={styles.container}>
+        <Text>LOGIN SCREEN</Text>
+        <Button
+          onPress={() => navigation.navigate('Home')}
+          title="Login"
+        />
+      </View>
+    );
+  }
 }
 
 const styles = StyleSheet.create({
